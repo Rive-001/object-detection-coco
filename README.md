@@ -2,6 +2,9 @@
 
 This tutorial will introduce the concept of Object Detection and will demonstrate the application of pre-trained models. Object detection is the task of identifying objects of interest in an image, outside of the background. It is a regression task, where we are trying to predict a set of two points on the image for each object. These two points define the bounding box that encapsulates the object. Object Detection is an important task in fields such as autonomous driving and pathology. In the former, we want to know the position of cars, pedestrians and traffic lights with respect to the vehicle. In the latter, we might want to isolate tumor elements in oncological pathology images.
 
+<div align="center"><img src="https://github.com/Rive-001/object-detection-coco/blob/main/coco-dataset-example.png" width="800" height="400"></div>
+<div align="center"><b>COCO dataset examples</b></div>
+
 ## Technology Stack
 * **Language and Frameworks**: Python, Pytorch
 * **Visualization**: [OpenCV](https://opencv.org/), [sci-kit image](https://scikit-image.org/)
