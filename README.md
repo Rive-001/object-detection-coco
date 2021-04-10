@@ -16,7 +16,7 @@ This tutorial will cover the following topics:
 
 1. **Installing libraries**: Where we download the dataset and install the necessary pre-requisites.
 2. **COCO Dataset**: Where we go over the COCO dataset and format while exploring the usage of the COCO API.
-3. **Faster R-CNN model**: We will use Pytorch's pre-trained Faster R-CNN model to perform object detection.
+3. **Faster R-CNN model**: We will use Pytorch's pre-trained [Faster R-CNN](https://pytorch.org/vision/stable/models.html#object-detection-instance-segmentation-and-person-keypoint-detection) model to perform object detection.
 4. **Example Application: Pedestrian Detection**: We will use the Faster R-CNN model to only detect pedestrians in another dataset.
 5. **Summary and References**
 
